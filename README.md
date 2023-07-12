@@ -1,4 +1,4 @@
-# Olá, eu sou o Carlos Daniel, eu sou estudando de programação.
+# Olá, eu sou o Carlos Daniel, eu sou estudante de programação.
 <div align="center">
   <a href="https://github.com/carlosspy">
   
