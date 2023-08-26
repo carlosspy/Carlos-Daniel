@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/website?label=Server.com&style=for-the-badge&url=https://discord.gg/plugworld)](https://discord.gg/plugworld)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/carlos_devlr/)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosspy&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologia que eu uso
 
