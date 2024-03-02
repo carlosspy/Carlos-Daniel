@@ -1,6 +1,6 @@
 # Olá, eu sou o Carlos Daniel
 
-[![Blog](https://img.shields.io/website?label=Developer&style=for-the-badge&url=https://acqua.lat/)](https://acqua.lat/)
+[![Blog](https://img.shields.io/website?label=Developer&style=for-the-badge&url=https://discord.gg/Peau6Xf782)](https://discord.gg/Peau6Xf782)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos_devlr/)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosspy&show_icons=true&theme=dracula&count_private=true)
